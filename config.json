@@ -1,0 +1,42 @@
+{
+    "proxyDomains" : [
+        "nicta.com.au",
+        "gov.au",
+        "csiro.au",
+        "arcgis.com",
+        "argo.jcommops.org",
+        "www.abc.net.au",
+        "geoserver.aurin.org.au",
+        "mapsengine.google.com",
+        "s3-ap-southeast-2.amazonaws.com",
+        "adelaidecitycouncil.com",
+        "www.dptiapps.com.au",
+        "geoserver-123.aodn.org.au",
+        "geoserver.imos.org.au",
+        "nci.org.au"
+    ],
+    "initializationUrls" : [
+        "nm"
+    ],
+    "parameters": {
+        "bingMapsKey": "AmIs3Xmxx5u1MxpU608-JLWvu5Hd4z8MsnoRllUm5rgw7ZqUEPVXKz-6TPvk6z0G",
+        "googleUrlShortenerKey": "AIzaSyBKMsngR_ke7UYtclmHElzaStwoH_ysU-8",
+        "googleAnalyticsKey": "UA-75019756-1",
+        "googleAnalyticsOptions": null,
+        "disclaimer": {
+            "text": "Disclaimer: This map is not to be used for navigation or precise spatial analysis.",
+            "url": "about.html"
+        },
+        "developerAttribution": {
+            "text": "DREXEL",
+            "link": "about.html"
+        },
+        "appName": "Latin America Map",
+        "supportEmail": "support@latam-map.org",
+        "brandBarElements": [
+            "<a target=\"_blank\" href=\"about.html\"><img src=\"images/south_am_map.png\" height=\"50\" alt=\"Latam Map\" title=\"Version: ' + version + '\" /></a>",
+            "<a target=\"_blank\" href=\"http://www.drexel.edu/\"><img src=\"images/AG-Rvsd-Stacked-Press.png\" height=\"30\" alt=\"Drexel University\" /></a>"
+        ]
+    }
+}
+
